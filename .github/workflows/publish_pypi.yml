@@ -1,4 +1,4 @@
-name: Builid Wheel and Release
+name: Build Wheel and Release
 
 on:
   pull_request:
